@@ -44,8 +44,6 @@ This project demonstrates encapsulation, modular design, and efficient search te
 
 ---
 
-## 🖥️ Example Run
-
 
 ---
 
@@ -76,10 +74,7 @@ java StudentInformationSystem
 
 ---
 
-✅ Just copy-paste this into your `README.md` and commit — GitHub will render it with proper formatting, emojis, and sections like a professional project page.  
-
-Do you also want me to **add GitHub badges (Java, OOP, Data Structures)** at the top for a more polished look?
 
 
-## 📂 Project Structure
+
 
